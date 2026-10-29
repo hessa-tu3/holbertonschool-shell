@@ -9,3 +9,5 @@
 - 17-hidethisword: Displays lines in /etc/passwd that do not contain "bin".
 
 - 18-letteronly: Displays lines in sshd_config that start with a letter.
+
+- 19-AZ: Replaces A with Z and c with e from standard input.
