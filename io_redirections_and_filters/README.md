@@ -15,3 +15,5 @@
 - 20-hiago: Removes c and C from standard input.
 
 - 21-reverse: Reverses each input line.
+
+- 22-users_and_homes: Displays usernames and home directories sorted alphabetically.
