@@ -5,3 +5,5 @@
 - 13-unique: Prints words appearing exactly once in sorted order.
 
 - 15-countthatword: Counts lines containing "bin" in /etc/passwd.
+
+- 17-hidethisword: Displays lines in /etc/passwd that do not contain "bin".
