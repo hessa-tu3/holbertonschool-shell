@@ -13,3 +13,5 @@
 - 19-AZ: Replaces A with Z and c with e from standard input.
 
 - 20-hiago: Removes c and C from standard input.
+
+- 21-reverse: Reverses each input line.
